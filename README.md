@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Ananay Gupta</h1>
-<h3 align="center">App/Web developer and an Arch Linux user.</h3>
+<h3 align="center">App/Web developer and Weeb.</h3>
 
 
 - 🌱 I’m currently learning **DSA and Javascript**
