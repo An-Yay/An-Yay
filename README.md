@@ -3,21 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=an-yay&label=Profile%20views&color=0e75b6&style=flat" alt="an-yay" /> </p>
 
-- 🔭 I’m currently working on **Cyber-Sec and Web**
+- 🔭 I’m currently working on **Flutter and Compilers**
 
-- 🌱 I’m currently learning **Rust and some JS**
+- 🌱 I’m currently learning **Dart & Web**
 
-- 👯 I’m looking to collaborate on **CTFs or App/Web projects**
+- 👯 I’m looking to collaborate on **App & Web Projects**
 
-- 🤝 I’m looking for help with **BurpSuite (it's wierd!)**
+- 🤝 I’m looking for help with **Backend**
 
 - 👨‍💻 Visit my Personal Website [https://github.com/An-Yay](https://anyay.vercel.app/)
 
-- 💬 Ask me about **Linux Java C Python Anime!**
+- 💬 Ask me about **C/C++ Android Web and Linux**
 
 - 📫 How to reach me **ananaygupta23@gmail.com**
 
-- ⚡ Fun fact **Python Sucks!!!!!!**
+- ⚡ Fun fact **You can write programming languages using a programming language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
